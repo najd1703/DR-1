@@ -55,7 +55,7 @@ public class Main {
         var timeWork = peapleCompany * hours;
         System.out.println( + timeWork + " такое кол-во часов должно быть поделенно между сотрудниками");
         System.out.println("Если в компании работает " + peapleCompany + " сотрудников то, всего " + timeWork + " часов работы может быть поделено между сотрудниками" );
-        ;
+
 
 
 
